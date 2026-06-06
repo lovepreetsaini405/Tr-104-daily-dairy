@@ -139,7 +139,7 @@ const FloatingIconsHero = React.forwardRef<
           {subtitle}
         </p>
         <p className="mt-2 text-base text-muted-foreground/70 text-balance">
-          Nitin Garg &middot; 2203518
+          Lovepreet Saini &middot; 2203494 &middot; 4th Year, Computer Science
         </p>
         <div className="mt-10">
           <Button asChild size="lg" className="px-8 py-6 text-base font-semibold">
