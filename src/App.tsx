@@ -47,7 +47,7 @@ function App() {
 
       <FloatingIconsHero
         title="TR-104 Training Report"
-        subtitle="22 weeks of comprehensive training in Python, Machine Learning, Deep Learning, Power BI, and Dataiku at Sun Foundation, Ludhiana"
+        subtitle="22 weeks of comprehensive training in Python, Machine Learning, Deep Learning, Power BI, and Dataiku at Numitech Solutions, Ludhiana"
         ctaText="Explore the Journey"
         ctaHref="#weeks"
         icons={heroIcons}
